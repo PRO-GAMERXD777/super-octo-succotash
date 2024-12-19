@@ -400,3 +400,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 16:53:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv left the game
 [19Dec2024 16:54:16.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jozxxmv[/127.27.130.223:59199] logged in with entity id 4034 at (75.79537995156298, 72.0, 20.9427130380884)
 [19Dec2024 16:54:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv joined the game
+[19Dec2024 17:00:03.147] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=105, y=237, z=39}
+[19Dec2024 17:03:33.195] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=118, y=73, z=5}
+[19Dec2024 17:05:15.228] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.232] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.306] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.312] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.482] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.490] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.550] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:15.552] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 17:05:19.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8997ms or 179 ticks behind
+[19Dec2024 17:05:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Diamonds!]
+[19Dec2024 17:05:56.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Suit Up]
+[19Dec2024 17:06:13.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
