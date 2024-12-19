@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "magenta",
+        "variant": "orcz:orc_wood"
+      }
+    }
+  }
+}

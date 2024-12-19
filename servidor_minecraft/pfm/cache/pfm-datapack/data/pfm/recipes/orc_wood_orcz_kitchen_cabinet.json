@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:orc_wood_orcz_kitchen_cabinet"
+  }
+}

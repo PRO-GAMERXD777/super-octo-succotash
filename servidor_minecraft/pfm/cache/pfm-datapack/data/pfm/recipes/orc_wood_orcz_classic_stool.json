@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:orc_wood_orcz_classic_stool"
+  }
+}

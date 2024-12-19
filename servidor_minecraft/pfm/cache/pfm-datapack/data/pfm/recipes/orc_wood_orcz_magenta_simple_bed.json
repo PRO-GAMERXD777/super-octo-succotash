@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:orc_wood_orcz_magenta_simple_bed"
+  }
+}

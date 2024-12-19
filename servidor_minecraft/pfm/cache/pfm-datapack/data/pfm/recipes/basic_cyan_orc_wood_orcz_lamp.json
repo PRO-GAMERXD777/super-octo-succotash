@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "cyan",
+        "variant": "orcz:orc_wood"
+      }
+    }
+  }
+}

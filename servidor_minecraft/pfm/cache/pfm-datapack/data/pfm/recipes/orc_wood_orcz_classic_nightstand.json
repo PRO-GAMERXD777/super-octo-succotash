@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_log"
+    },
+    {
+      "item": "orcz:orc_wood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:orc_wood_orcz_classic_nightstand"
+  }
+}
