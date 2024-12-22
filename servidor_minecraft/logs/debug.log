@@ -12759,3 +12759,90 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 18:51:14.857] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
 [22Dec2024 18:51:17.302] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_3
 [22Dec2024 18:51:17.707] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[22Dec2024 18:51:20.787] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/skyris], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch]] from pos BlockPos{x=27, y=74, z=11}
+[22Dec2024 18:51:20.907] [pool-6-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[22Dec2024 18:51:21.556] [pool-6-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_1
+[22Dec2024 18:51:23.131] [Server thread/DEBUG] [mixin/]: Mixing access.MobCountsAccess from enhancedcelestials.mixins.json into net.minecraft.world.level.LocalMobCapCalculator$MobCounts
+[22Dec2024 18:51:23.819] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[22Dec2024 18:51:24.709] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[22Dec2024 18:51:24.849] [Worker-Main-11/DEBUG] [mixin/]: Mixing MineshaftPiecesMixin from supplementaries-common.mixins.json into net.minecraft.world.level.levelgen.structure.structures.MineshaftPieces
+[22Dec2024 18:51:29.264] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[22Dec2024 18:51:30.920] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.PathNavigationRegionMixin from canary.mixins.json into net.minecraft.world.level.PathNavigationRegion
+[22Dec2024 18:51:30.926] [Server thread/DEBUG] [mixin/]: Mixing util.chunk_access.PathNavigationRegionMixin from canary.mixins.json into net.minecraft.world.level.PathNavigationRegion
+[22Dec2024 18:51:30.941] [Server thread/DEBUG] [mixin/]: Mixing common.chunk.EmptyLevelChunkMixin from starlight.mixins.json into net.minecraft.world.level.chunk.EmptyLevelChunk
+[22Dec2024 18:51:31.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[22Dec2024 18:51:31.561] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.FlyNodeEvaluatorMixin from canary.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[22Dec2024 18:51:32.832] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[22Dec2024 18:51:32.834] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy1
+[22Dec2024 18:51:33.731] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[22Dec2024 18:51:35.928] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[22Dec2024 18:51:36.847] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:village/skyris/villagers/baby is being run through DFU (hash f6c59524d0f7cefedd31ca7081b604468014d2c70fd3807193410243f0f0de8e), this will cause launch time delays
+[22Dec2024 18:51:37.120] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:village/skyris/villagers/unemployed is being run through DFU (hash bdfc54833c8d1e8b303bef60822e38ad261a80e3a47b1c38ff1e806e165c2479), this will cause launch time delays
+[22Dec2024 18:51:37.159] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:village/skyris/terminators/skyris_terminator_01 is being run through DFU (hash cda7c004281fbbd7967126d53c0e9e385e11c04ea5f678034384f45f9ba05640), this will cause launch time delays
+[22Dec2024 18:51:37.274] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:village/skyris/skyris_lamp_1 is being run through DFU (hash 58efb884d398e118415334a4e392eaeb8aabf1a2dce2a0941695eeba6dde4d29), this will cause launch time delays
+[22Dec2024 18:51:37.294] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:village/skyris/terminators/skyris_terminator_02 is being run through DFU (hash 6d37b7e90ab132d402c80e8be6c734430f14496b81e105e51db630c743c002c4), this will cause launch time delays
+[22Dec2024 18:51:44.906] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palm/palm_trunk4 is being run through DFU (hash 34603500898022392ac1d3c333d996a53d699675fe3126369d991b0ba53ed398), this will cause launch time delays
+[22Dec2024 18:51:44.909] [Worker-Main-11/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palm/palm_canopy4 is being run through DFU (hash d8866307019ad3b0a9560da03583d618e1b16abbf24178265ade576fa35b0925), this will cause launch time delays
+[22Dec2024 18:51:50.269] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[22Dec2024 18:51:50.423] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[22Dec2024 18:52:18.277] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk2
+[22Dec2024 18:52:18.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy2
+[22Dec2024 18:52:18.285] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk4
+[22Dec2024 18:52:18.288] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy4
+[22Dec2024 18:52:18.945] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[22Dec2024 18:52:18.947] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[22Dec2024 18:52:19.672] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[22Dec2024 18:52:19.679] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy5
+[22Dec2024 18:52:19.692] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk1
+[22Dec2024 18:52:19.693] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy1
+[22Dec2024 18:52:19.694] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[22Dec2024 18:52:19.695] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[22Dec2024 18:52:35.171] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk3
+[22Dec2024 18:52:35.174] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy3
+[22Dec2024 18:52:35.175] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[22Dec2024 18:52:39.758] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[22Dec2024 18:52:40.628] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[22Dec2024 18:52:40.630] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[22Dec2024 18:52:53.542] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[22Dec2024 18:52:53.544] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[22Dec2024 18:52:54.883] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[22Dec2024 18:53:07.595] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[22Dec2024 18:53:10.823] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[22Dec2024 18:53:13.082] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_canopy3 is being run through DFU (hash d0c8b31c8a555835a1b40f2b596fb42573a840e0299fb36d39e6ccf60db8ed5f), this will cause launch time delays
+[22Dec2024 18:53:23.621] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[22Dec2024 18:53:23.622] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[22Dec2024 18:53:24.858] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy2
+[22Dec2024 18:53:24.869] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy1
+[22Dec2024 18:53:25.840] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_trunk2 is being run through DFU (hash de3cf663b957dbaae4e22c264010e3e83090258a506b9779b12753596cf0b54e), this will cause launch time delays
+[22Dec2024 18:53:25.842] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_canopy2 is being run through DFU (hash 956aa55102f077e5d9f090ec36b84e89be1660f66c290074f2bc2c886eff7646), this will cause launch time delays
+[22Dec2024 18:53:35.826] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=208, y=55, z=214} at Chest with:minecraft:chests/simple_dungeon
+[22Dec2024 18:53:39.347] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[22Dec2024 18:53:39.365] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[22Dec2024 18:53:39.914] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[22Dec2024 18:53:39.914] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[22Dec2024 18:53:42.079] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy1
+[22Dec2024 18:54:19.137] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy2
+[22Dec2024 18:54:26.954] [Worker-Main-10/DEBUG] [mixin/]: Mixing ai.task.replace_streams.GateBehaviorMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.GateBehavior
+[22Dec2024 18:54:27.060] [Worker-Main-10/DEBUG] [mixin/]: Mixing ai.task.replace_streams.ShufflingListMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
+[22Dec2024 18:54:59.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 18:54:59.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 18:55:46.930] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palm/palm_canopy3 is being run through DFU (hash d43f5fdf055163baa79f484ebbdd428a171d8c8e7bd1df322cb32e00d11f992e), this will cause launch time delays
+[22Dec2024 18:56:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Alex's Mobs]
+[22Dec2024 18:59:01.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [This Must be a Sign!]
+[22Dec2024 18:59:06.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Stone Age]
+[22Dec2024 18:59:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv was shot by Huntsman
+[22Dec2024 18:59:18.138] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[22Dec2024 18:59:18.188] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[22Dec2024 18:59:18.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[22Dec2024 18:59:18.356] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[22Dec2024 18:59:44.203] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-295, y=51, z=-7} at Chest with:minecraft:chests/buried_treasure
+[22Dec2024 18:59:59.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 18:59:59.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 19:00:05.022] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-318, y=47, z=184} at Chest with:minecraft:chests/shipwreck_treasure
+[22Dec2024 19:00:49.910] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=148, y=24, z=-299} at Chest with:minecraft:chests/simple_dungeon
+[22Dec2024 19:00:56.436] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[22Dec2024 19:00:56.438] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[22Dec2024 19:01:00.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:orc_camp_normal_loot
+[22Dec2024 19:01:07.397] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[22Dec2024 19:01:07.401] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[22Dec2024 19:01:15.434] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
