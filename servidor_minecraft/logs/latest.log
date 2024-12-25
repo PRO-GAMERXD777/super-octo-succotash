@@ -404,3 +404,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 02:06:32.618] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [25Dec2024 02:06:32.620] [Server thread/INFO] [mediumcore/]: set server game rule for mediumcore because it is set to true in server.properties
 [25Dec2024 02:06:32.622] [Server thread/WARN] [ModernFix/]: Dedicated server took 127.752 seconds to load
+[25Dec2024 02:15:38.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jozxxmv[/127.94.251.189:38407] logged in with entity id 2 at (-139.20685379664124, 67.0, 87.03012334878247)
+[25Dec2024 02:15:38.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv joined the game
+[25Dec2024 02:15:46.726] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[25Dec2024 02:16:14.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35620ms or 712 ticks behind
+[25Dec2024 02:16:15.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/93, l='ServerLevel[world]', x=-139.50, y=69.00, z=34.60]
+[25Dec2024 02:21:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Iron Remote]
+[25Dec2024 02:23:38.031] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-129, y=68, z=53}
