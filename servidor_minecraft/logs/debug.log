@@ -11709,3 +11709,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 02:27:49.291] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [25Dec2024 02:32:08.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 02:32:08.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:36:00.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=67, z=80} BlockPos{x=-166, y=67, z=79}
+[25Dec2024 02:37:08.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:37:08.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:38:41.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[25Dec2024 02:40:43.029] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-117, y=67, z=-5}
+[25Dec2024 02:42:08.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:42:08.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:42:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv was doomed to fall
+[25Dec2024 02:42:37.537] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[25Dec2024 02:42:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has completed the challenge [The Iron Keeper]
+[25Dec2024 02:42:54.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [The Iron Colossus Treasure Bag]
+[25Dec2024 02:42:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [The Iron Colossus Relic]
+[25Dec2024 02:44:20.076] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-176, y=71, z=106}

@@ -2671,6 +2671,12 @@
     },
     "done": true
   },
+  "legendarysurvivaloverhaul:recipes/misc/purified_canteen_from_purification_smelting_canteen": {
+    "criteria": {
+      "has_canteen": "2024-12-25 02:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-25 02:25:27 +0000"
@@ -2686,6 +2692,12 @@
   "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-12-25 02:21:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 02:32:15 +0000"
     },
     "done": true
   },
@@ -2737,6 +2749,12 @@
     },
     "done": true
   },
+  "endofherobrine:recipes/decorations/cursed_head": {
+    "criteria": {
+      "has_item": "2024-12-25 02:32:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/yellow_simple_sofa": {
     "criteria": {
       "has_wool": "2024-12-25 02:25:27 +0000"
@@ -2776,6 +2794,12 @@
   "pfm:recipes/furniture/gray_arm_chair": {
     "criteria": {
       "has_wool": "2024-12-25 02:25:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-25 02:32:15 +0000"
     },
     "done": true
   },
@@ -2974,6 +2998,12 @@
   "pfm:recipes/furniture/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-12-25 02:25:27 +0000"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/purified_canteen_from_purification_blasting_canteen": {
+    "criteria": {
+      "has_canteen": "2024-12-25 02:32:43 +0000"
     },
     "done": true
   },
