@@ -418,3 +418,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Dec2024 02:42:54.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [The Iron Colossus Treasure Bag]
 [25Dec2024 02:42:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [The Iron Colossus Relic]
 [25Dec2024 02:44:20.076] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-176, y=71, z=106}
+[25Dec2024 02:46:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Suit Up]
+[25Dec2024 02:49:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [You Are A Pirate]
+[25Dec2024 02:49:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Monster Hunter]
+[25Dec2024 02:50:27.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Barrel Booty]
+[25Dec2024 02:50:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv has made the advancement [Disme A Dozen]
+[25Dec2024 02:52:57.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jozxxmv lost connection: Disconnected
+[25Dec2024 02:52:57.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jozxxmv left the game
